@@ -1,4 +1,4 @@
-filename = "/Users/cagoad/dev/bucketMapping.csv"
+filename = "/Users/cagoad/dev/scripts/bucketMapping.csv"
 dict = {}
 with open(filename) as f:
     for line in f:
